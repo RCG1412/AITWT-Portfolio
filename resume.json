@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Rohit Gupta",
+    "label": "Senior Technical Writer",
+    "email": "gupta14rohit@outlook.com",
+    "phone": "+91-7506295099",
+    "url": "https://linkedin.com/in/rohitgupta",
+    "summary": "Senior Technical Writer with 16 years of experience driving documentation strategy and translating complex engineering concepts into high-impact user documentation, technical presentations, and customer communications. Skilled in structured authoring (DITA/XML), CMS management, and Docs-as-Code workflows in Agile product lifecycles.",
+    "location": {
+      "city": "Pune",
+      "region": "India",
+      "countryCode": "IN"
+    }
+  },
+  "work": [
+    {
+      "name": "FIS (Fidelity National Information Services)",
+      "position": "Senior Technical Writer",
+      "startDate": "2021-12",
+      "endDate": "2026-07",
+      "location": "Pune, India",
+      "summary": "Managed end-to-end documentation for fintech SaaS products across sprint and release cycles.",
+      "highlights": [
+        "Managed end-to-end documentation lifecycle including User Guides, Release Notes, and API guides aligned to sprint and release cycles for multiple products",
+        "Developed and executed cross-functional documentation roadmap that aligned content strategy with product owner objectives and UX goals",
+        "Restructured large sets of legacy documents into modular topic-based content, improving discoverability and maintainability",
+        "Reviewed AI-generated content and improved support efficiency, dropping incoming support tickets by 20% and speeding up answer times by 30%"
+      ]
+    },
+    {
+      "name": "L&T Technology Services (LTTS)",
+      "position": "Senior Technical Writer",
+      "startDate": "2014-12",
+      "endDate": "2021-12",
+      "location": "Mumbai, India",
+      "summary": "Delivered structured technical documentation for heavy industry, oil and gas, and automotive clients.",
+      "highlights": [
+        "Delivered structured technical documentation for heavy industry, oil and gas, and automotive clients using SME input and engineering source data across multiple concurrent projects",
+        "Led team of Technical Writers managing task allocation, project tracking, and quality review before client submission",
+        "Authored maintenance manuals, installation guides, Factory Acceptance Test documents, and Illustrated Parts Catalogs from CAD models and BOM data",
+        "Led migration projects to transition legacy documents to CMS platforms (Windchill and Enovia)"
+      ]
+    },
+    {
+      "name": "Delos Consulting",
+      "position": "Technical Author",
+      "startDate": "2010-08",
+      "endDate": "2014-11",
+      "location": "Bangalore, India",
+      "summary": "Created technical documentation for aerospace clients.",
+      "highlights": [
+        "Created Component Maintenance Manuals from engineering drawings, CAD models, and Bills of Materials for aerospace clients in ATA iSpec 2200 and S1000D standards",
+        "Built foundational technical writing skills in engineering documentation, source-data analysis, and structured content development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Singhania University",
+      "studyType": "B.Sc.",
+      "area": "Aircraft Maintenance Engineering",
+      "endDate": "2019"
+    },
+    {
+      "institution": "Indian Institute of Aeronautics",
+      "studyType": "Diploma",
+      "area": "Aircraft Maintenance Engineering",
+      "endDate": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Writing",
+      "level": "Expert",
+      "keywords": [
+        "User Manuals",
+        "Installation Guides",
+        "Release Notes",
+        "API Documentation",
+        "Getting Started Guides",
+        "Configuration Guides"
+      ]
+    },
+    {
+      "name": "Structured Authoring",
+      "level": "Expert",
+      "keywords": [
+        "DITA/XML",
+        "Topic-based Authoring",
+        "Content Management"
+      ]
+    },
+    {
+      "name": "XML Editors & Tools",
+      "level": "Expert",
+      "keywords": [
+        "Arbortext Editor",
+        "Oxygen XML Editor",
+        "FrameMaker",
+        "Robohelp"
+      ]
+    },
+    {
+      "name": "CMS Platforms",
+      "level": "Advanced",
+      "keywords": [
+        "Windchill",
+        "Enovia",
+        "CxOne Expert",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Azure DevOps",
+        "JIRA",
+        "GitHub",
+        "Postman",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Advanced",
+      "keywords": [
+        "Agile/Scrum",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Project Planning",
+        "Schedule Management"
+      ]
+    },
+    {
+      "name": "Documentation Standards",
+      "level": "Advanced",
+      "keywords": [
+        "S1000D",
+        "ATA iSpec 2200",
+        "DDLC",
+        "SDLC"
+      ]
+    },
+    {
+      "name": "Other Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "Docs-as-Code",
+        "Snagit",
+        "MS Word"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "KUDOS Award",
+      "awarder": "L&T Technology Services",
+      "summary": "For legacy documentation migration and go-live"
+    },
+    {
+      "title": "Peoples Champion Award",
+      "awarder": "L&T Technology Services",
+      "summary": "For executing project management activities across various projects"
+    },
+    {
+      "title": "Star of the Month",
+      "awarder": "L&T Technology Services",
+      "summary": "For on-time deliveries and meeting quality standards"
+    },
+    {
+      "title": "Team Performance Award",
+      "awarder": "L&T Technology Services",
+      "summary": "For meeting excellent CSAT/NPS ratings"
+    }
+  ]
+}
